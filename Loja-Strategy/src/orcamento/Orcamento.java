@@ -4,11 +4,9 @@ import java.math.BigDecimal;
 
 public class Orcamento {
     private BigDecimal valor;
-    private int quantItens;
 
-    public Orcamento(BigDecimal valor, int quantItens) {
+    public Orcamento(BigDecimal valor) {
         this.valor = valor;
-        this.quantItens = quantItens;
     }
 
     public BigDecimal getValor() {
@@ -17,13 +15,5 @@ public class Orcamento {
 
     public void setValor(BigDecimal valor) {
         this.valor = valor;
-    }
-
-    public int getQuantItens() {
-        return quantItens;
-    }
-
-    public void setQuantItens(int quantItens) {
-        this.quantItens = quantItens;
     }
 }
