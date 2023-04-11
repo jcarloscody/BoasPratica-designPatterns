@@ -22,3 +22,7 @@
 
 - `Pattern State`
 - é usado quando temos uma transição de estados ou quando queremos executar algum algoritmo baseado em algum estado de alguma classe. 
+
+- `Command`
+- é um padrão de design comportamental que transforma uma solicitação em um objeto autônomo que contém todas as informações sobre a solicitação
+
