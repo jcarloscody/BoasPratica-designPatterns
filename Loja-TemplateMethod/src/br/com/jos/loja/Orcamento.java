@@ -1,4 +1,4 @@
-package br.com.alura.loja;
+package br.com.jos.loja;
 
 import java.math.BigDecimal;
 

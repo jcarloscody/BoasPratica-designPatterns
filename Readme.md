@@ -19,3 +19,6 @@
 - `Template Method` 
 - O padrão Template Method favorece o reaproveitamento de códigos comuns entre classes, evitando assim duplicações de códigos.
 - a ideia é termos um método que funciona como template, como modelo que faz parte do processo, mas outra parte ele delega 
+
+- `Pattern State`
+- é usado quando temos uma transição de estados ou quando queremos executar algum algoritmo baseado em algum estado de alguma classe. 

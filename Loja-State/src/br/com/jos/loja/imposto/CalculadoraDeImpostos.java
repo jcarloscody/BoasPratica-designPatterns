@@ -1,8 +1,8 @@
-package br.com.alura.loja.imposto;
+package br.com.jos.loja.imposto;
 
 import java.math.BigDecimal;
 
-import br.com.alura.loja.Orcamento;
+import br.com.jos.loja.orcamento.Orcamento;
 
 public class CalculadoraDeImpostos {
 
