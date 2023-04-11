@@ -1,5 +1,6 @@
 ## Design Patterns
 - solução comum para um problema recorrente ao utilizar o paradigma da orientação a objetos.
+- [Boa Fonte](https://refactoring.guru/design-patterns/chain-of-responsibility)
 
 ### Categorias
 - criacionais
@@ -14,3 +15,7 @@
 
 - `Chain of Responsibility`
 - é um padrão de design comportamental que permite passar solicitações por uma cadeia de manipuladores. Ao receber uma solicitação, cada manipulador decide processar a solicitação ou passá-la para o próximo manipulador na cadeia.
+
+- `Template Method` 
+- O padrão Template Method favorece o reaproveitamento de códigos comuns entre classes, evitando assim duplicações de códigos.
+- a ideia é termos um método que funciona como template, como modelo que faz parte do processo, mas outra parte ele delega 
