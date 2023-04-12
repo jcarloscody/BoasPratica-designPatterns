@@ -26,3 +26,5 @@
 - `Command`
 - é um padrão de design comportamental que transforma uma solicitação em um objeto autônomo que contém todas as informações sobre a solicitação
 
+- `Observer`
+- a ideia é ter ouvintes observadores que estão de olho em determinado evento e quando um determinado evento X acontecer, ela será chamada 
