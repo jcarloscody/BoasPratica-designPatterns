@@ -28,4 +28,12 @@
 
 - `Observer`
 - a ideia é ter ouvintes observadores que estão de olho em determinado evento e quando um determinado evento X acontecer, ela será chamada 
-- 
+
+
+- `Facade`
+- um objeto que funciona como uma fachada
+
+
+- `Proxy`
+- um intermediario que interceptará uma requisicao para fazer tratamento
+- temos um objeto e uma camada que vai interceptar as chamadas ao objeto original 
