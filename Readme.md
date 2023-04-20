@@ -28,3 +28,4 @@
 
 - `Observer`
 - a ideia é ter ouvintes observadores que estão de olho em determinado evento e quando um determinado evento X acontecer, ela será chamada 
+- 
